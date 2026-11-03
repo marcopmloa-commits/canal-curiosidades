@@ -12,6 +12,14 @@ python3 make_short.py roteiros/001_polvo.json saida/001_polvo
 
 Saída em `saida/<nome>/`: `short.mp4` (1080x1920), `thumbnail.jpg`, `post.txt` e `tempos.json`.
 
+## Formato e voz do dia
+
+```bash
+python3 sortear_formato.py 2
+```
+
+Sorteia, para cada vídeo, curto (30–45 s) ou longo (70–100 s) e voz feminina, masculina ou dupla.
+
 ## Imagens
 
 ```bash
@@ -28,6 +36,7 @@ Cada item de `segmentos`: `fala` (narração), `destaque` (título na tela), `su
 `tamanho` (fonte, opcional), `imagem` (caminho relativo ao JSON, opcional), `foco` (0–1, recorte vertical).
 Na raiz: `titulo`, `descricao`, `tags`, `thumb`, `thumb_sub`, `thumb_imagem`, `voz`, `velocidade`,
 `tag` (selo do topo, padrão "VOCÊ SABIA?"), `creditos` (lista) e `fontes` (lista de links que confirmam os fatos).
+Cada segmento também aceita `voz` e `velocidade` próprias, para alternar homem e mulher no mesmo vídeo.
 
 ## Envio ao YouTube
 

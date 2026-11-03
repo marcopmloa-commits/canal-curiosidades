@@ -29,7 +29,26 @@ def font(path, size, _c={}):
 
 # ---------- 1. narração + tempos de cada palavra ----------
 async def narrate(segments, voice, rate, out_mp3):
-    text = " ".join(s["fala"] for s in segments)
+    """Narra cena por cena. Cada segmento pode ter "voz" e "velocidade" próprias (ex.: diálogo homem/mulher)."""
+    vozes = {s.get("voz", voice) for s in segments}
+    if len(vozes) == 1 and not any("velocidade" in s for s in segments):
+        return await _narra_bloco(segments, voice, rate, out_mp3)
+    words, starts, audio, t = [], [], bytearray(), 0.0
+    tmp = out_mp3 + ".parte.mp3"
+    for s in segments:
+        ws, chunk = await _tts(s["fala"], s.get("voz", voice), s.get("velocidade", rate))
+        open(tmp, "wb").write(chunk)
+        dur = duration(tmp)
+        starts.append(t + (ws[0]["t0"] if ws else 0))
+        words += [{"w": w["w"], "t0": w["t0"] + t, "t1": w["t1"] + t} for w in ws]
+        audio += chunk
+        t += dur
+    os.remove(tmp)
+    open(out_mp3, "wb").write(audio)
+    return words, starts
+
+
+async def _tts(text, voice, rate):
     com = tts.Communicate(text, voice, rate=rate, boundary="WordBoundary")
     words, audio = [], bytearray()
     async for ch in com.stream():
@@ -38,6 +57,11 @@ async def narrate(segments, voice, rate, out_mp3):
         elif ch["type"] == "WordBoundary":
             words.append({"w": ch["text"], "t0": ch["offset"] / 1e7,
                           "t1": (ch["offset"] + ch["duration"]) / 1e7})
+    return words, audio
+
+
+async def _narra_bloco(segments, voice, rate, out_mp3):
+    words, audio = await _tts(" ".join(s["fala"] for s in segments), voice, rate)
     open(out_mp3, "wb").write(audio)
     # em que palavra começa cada segmento
     starts, idx = [], 0
