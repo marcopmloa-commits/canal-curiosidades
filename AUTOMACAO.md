@@ -33,6 +33,6 @@ manual: por isso as regras abaixo são obrigatórias.
 
 ## Cota da API
 
-O projeto do Google Cloud é o mesmo do canal de manhwa (10.000 unidades/dia no total).
-Manhwa: 3 envios (~4.800). Curiosidades: 2 envios (~3.200). Total ~8.000: dentro do limite.
-Não reenviar vídeo que falhou mais de uma vez no mesmo dia.
+O projeto do Google Cloud é o mesmo do canal de manhwa (10.000 unidades/dia no total, renovadas à
+meia-noite do horário do Pacífico). Desde dezembro de 2025 cada envio custa cerca de 100 unidades,
+então a cota sobra. Mesmo assim, não reenviar um vídeo que falhou mais de uma vez no mesmo dia.

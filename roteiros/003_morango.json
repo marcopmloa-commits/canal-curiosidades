@@ -1,0 +1,65 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-FranciscaNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "Para a botânica, o morango não é uma baga. Mas a banana é.",
+      "destaque": "Morango não é baga",
+      "tamanho": 150,
+      "imagem": "img/003_morango/01_morangos.jpg",
+      "foco": 0.45
+    },
+    {
+      "fala": "Baga é o fruto que nasce de um único ovário da flor, com as sementes por dentro.",
+      "destaque": "O que é baga?",
+      "sub": "1 ovário, sementes dentro",
+      "tamanho": 160
+    },
+    {
+      "fala": "A banana segue essa regra direitinho. Por isso, ela é uma baga.",
+      "destaque": "Banana é baga",
+      "tamanho": 160,
+      "imagem": "img/003_morango/02_bananas.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "E a uva, o tomate e o kiwi também são.",
+      "destaque": "Uva, tomate e kiwi também",
+      "tamanho": 130,
+      "imagem": "img/003_morango/03_uvas.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Já no morango, a parte vermelha vem de outra parte da flor, que incha. E cada pontinho por fora é um fruto de verdade, com uma semente dentro.",
+      "destaque": "Cada pontinho é um fruto",
+      "tamanho": 130,
+      "imagem": "img/003_morango/04_pontinho.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Qual fruta você quer que a gente investigue? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é a próxima?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "O morango não é baga",
+  "thumb_sub": "A banana é baga",
+  "thumb_imagem": "img/003_morango/01_morangos.jpg",
+  "thumb_foco": 0.45,
+  "titulo": "O MORANGO não é baga, mas a BANANA é 🍓🍌 #curiosidades #frutas",
+  "descricao": "Na botânica, baga é o fruto que nasce de um único ovário da flor, com as sementes por dentro. A banana, a uva, o tomate e o kiwi seguem essa regra. Já no morango, a parte vermelha vem de outra parte da flor, e cada pontinho por fora é um fruto de verdade, com uma semente dentro.\n\nQual fruta você quer que a gente investigue? Comenta aí 👇\n\n#curiosidades #vocesabia #morango #banana #botanica",
+  "tags": ["curiosidades", "você sabia", "morango", "banana", "banana é baga", "frutas", "botânica", "fatos curiosos", "ciência"],
+  "creditos": [
+    "Organic-strawberries Canada.jpg — Marc-Lautenbacher (CC BY-SA 4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Organic-strawberries_Canada.jpg",
+    "Cavendish banana — (c) Sebastián de Jesús Herrera Buenfil, some rights reserved (CC BY), via iNaturalist: https://www.inaturalist.org/photos/111984011",
+    "A bunch of grapes on a vine.jpg — Ian Schneider on Unsplash (CC0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:A_bunch_of_grapes_on_a_vine.jpg",
+    "garden strawberry — (c) Tony Wills, some rights reserved (CC BY-SA), via iNaturalist: https://www.inaturalist.org/photos/59207218"
+  ],
+  "fontes": [
+    "https://www.livescience.com/57477-why-are-bananas-considered-berries.html",
+    "https://sciencenotes.org/is-a-strawberry-a-berry-why-the-answer-is-surprisingly-no/",
+    "https://www.scienceabc.com/nature/why-is-strawberry-not-a-berry.html"
+  ]
+}

@@ -68,7 +68,7 @@ def openverse(q):
 def commons(q):
     p = urllib.parse.urlencode({"action": "query", "format": "json", "generator": "search", "gsrnamespace": 6,
                                 "gsrsearch": f"{q} filetype:bitmap", "gsrlimit": 20, "prop": "imageinfo",
-                                "iiprop": "url|size|extmetadata", "iiurlwidth": 1600})
+                                "iiprop": "url|size|extmetadata", "iiurlwidth": 1280})
     out = []
     for pg in jget(f"https://commons.wikimedia.org/w/api.php?{p}").get("query", {}).get("pages", {}).values():
         ii = pg["imageinfo"][0]

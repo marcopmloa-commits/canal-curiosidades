@@ -1,0 +1,66 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-FranciscaNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "Em Vênus, girar uma vez em torno de si mesmo demora mais do que dar a volta inteira no Sol.",
+      "destaque": "Mais longo que um ano",
+      "tamanho": 140,
+      "imagem": "img/002_venus/01_globo.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Vênus leva cerca de 243 dias terrestres para completar uma volta no próprio eixo.",
+      "destaque": "243 dias",
+      "sub": "Uma volta no eixo",
+      "tamanho": 180,
+      "imagem": "img/002_venus/02_mapa.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "E só uns 225 dias para dar a volta no Sol. Ou seja, o ano de Vênus termina antes dessa volta acabar.",
+      "destaque": "225 dias",
+      "sub": "Uma volta no Sol",
+      "tamanho": 180
+    },
+    {
+      "fala": "E ele gira ao contrário da Terra. Lá, o Sol nasce no oeste e se põe no leste.",
+      "destaque": "O Sol nasce no oeste",
+      "tamanho": 140,
+      "imagem": "img/002_venus/03_superficie.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Tem mais: mesmo não sendo o mais perto do Sol, Vênus é o planeta mais quente do Sistema Solar, porque a atmosfera grossa prende o calor.",
+      "destaque": "O planeta mais quente",
+      "tamanho": 140,
+      "imagem": "img/002_venus/04_relevo.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Qual planeta você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é o próximo?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "Em Vênus o dia dura mais que o ano",
+  "thumb_sub": "Entenda",
+  "thumb_imagem": "img/002_venus/01_globo.jpg",
+  "thumb_foco": 0.5,
+  "titulo": "Em VÊNUS, girar 1 vez demora mais que 1 ANO 🪐 #curiosidades #espaço",
+  "descricao": "Vênus leva cerca de 243 dias terrestres para dar uma volta no próprio eixo, mas só uns 225 dias para dar a volta no Sol. Ele também gira ao contrário da Terra: lá, o Sol nasce no oeste. E, mesmo não sendo o mais perto do Sol, é o planeta mais quente do Sistema Solar, por causa da atmosfera densa.\n\nQual planeta você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #venus #espaço #astronomia",
+  "tags": ["curiosidades", "você sabia", "vênus", "planeta vênus", "espaço", "astronomia", "sistema solar", "fatos curiosos", "ciência"],
+  "creditos": [
+    "Venus - Global View Centered at 180 degrees — NASA (domínio público): https://images.nasa.gov/details/PIA00478",
+    "Venus - Simple Cylindrical Map of Surface Eastern Half — NASA (domínio público): https://images.nasa.gov/details/PIA00256",
+    "Magellan 3D perspective of Venus surface in western Eistla Regio — NASA (domínio público): https://images.nasa.gov/details/S91-50687",
+    "Venus - Three-Dimensional Perspective View of Alpha Region — NASA (domínio público): https://images.nasa.gov/details/PIA00481"
+  ],
+  "fontes": [
+    "https://science.nasa.gov/venus/",
+    "https://www.universetoday.com/36687/rotation-of-venus",
+    "https://bira-iasb.be/en/encyclopedia/venus-backwards-rotation-and-orbital-period"
+  ]
+}
