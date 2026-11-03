@@ -1,0 +1,66 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-FranciscaNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "O polvo tem três corações. E o sangue dele é azul.",
+      "destaque": "Três corações",
+      "tamanho": 170,
+      "imagem": "img/001_polvo/01_olho.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Dois corações bombeiam o sangue pelas brânquias, e o terceiro manda esse sangue para o resto do corpo.",
+      "destaque": "2 nas brânquias, 1 no corpo",
+      "tamanho": 120,
+      "imagem": "img/001_polvo/02_polvo.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "O sangue é azul por causa da hemocianina, uma proteína com cobre. No nosso sangue, quem leva o oxigênio é a hemoglobina, que tem ferro.",
+      "destaque": "Sangue azul",
+      "sub": "Cobre, não ferro",
+      "tamanho": 170
+    },
+    {
+      "fala": "E quando o polvo nada, o coração principal para de bater por alguns instantes. Por isso ele prefere andar pelo fundo.",
+      "destaque": "O coração para",
+      "tamanho": 150,
+      "imagem": "img/001_polvo/03_andando.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Tem mais: cerca de dois terços dos neurônios do polvo ficam nos braços, e não no cérebro.",
+      "destaque": "Neurônios nos braços",
+      "tamanho": 140,
+      "imagem": "img/001_polvo/04_bracos.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Qual animal você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é o próximo?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "O polvo tem 3 corações",
+  "thumb_sub": "E sangue azul",
+  "thumb_imagem": "img/001_polvo/01_olho.jpg",
+  "thumb_foco": 0.5,
+  "titulo": "O polvo tem 3 CORAÇÕES e sangue azul 🐙 #curiosidades #polvo",
+  "descricao": "O polvo tem três corações: dois bombeiam o sangue pelas brânquias e um manda o sangue para o corpo. O sangue é azul por causa da hemocianina, uma proteína com cobre. Quando ele nada, o coração principal para por alguns instantes, e cerca de dois terços dos neurônios ficam nos braços.\n\nQual animal você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #polvo #animais #ciencia",
+  "tags": ["curiosidades", "você sabia", "polvo", "polvo três corações", "sangue azul", "animais", "ciência", "fatos curiosos", "biologia marinha"],
+  "creditos": [
+    "Common Octopus — (c) Radu Teodoreanu, some rights reserved (CC BY), via iNaturalist: https://www.inaturalist.org/photos/560872281",
+    "Common Octopus — (c) Michael Bommerer, some rights reserved (CC BY), via iNaturalist: https://www.inaturalist.org/photos/405856842",
+    "Common Octopus — (c) Yves Bas, some rights reserved (CC BY), via iNaturalist: https://www.inaturalist.org/photos/320909144",
+    "Common Octopus — (c) Georgina Jones, some rights reserved (CC BY-SA), via iNaturalist: https://www.inaturalist.org/photos/632548293"
+  ],
+  "fontes": [
+    "https://www.smithsonianmag.com/science-nature/ten-wild-facts-about-octopuses-they-have-three-hearts-big-brains-and-blue-blood-7625828/",
+    "https://ocean.si.edu/ocean-life/invertebrates/how-many-hearts-does-octopus-have",
+    "https://www.livescience.com/how-many-hearts-does-an-octopus-have",
+    "https://sciencedaily.com/releases/2020/11/201102120027.htm"
+  ]
+}
