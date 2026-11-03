@@ -8,7 +8,9 @@ manual: por isso as regras abaixo são obrigatórias.
 1. **Pré-checagem:** `YT_CLIENT_ID`, `YT_CLIENT_SECRET` e `YT_REFRESH_TOKEN_CURIOSIDADES` precisam existir
    (nunca imprimir os valores), e `canal.json` precisa estar no repositório. Se faltar algo, parar e avisar.
    **Nunca** usar `YT_REFRESH_TOKEN` (é do canal de manhwa).
-2. **Histórico:** ler `historico.md` e `roteiros/*.json` para não repetir tema dos últimos 30 dias nem
+2. **Pauta:** ler `PAUTA.md`. Se houver pedido pendente para a data de hoje (horário de Brasília), ele tem
+   prioridade sobre a escolha de categoria do passo 3. Ao terminar, marcar o pedido como `feito`.
+   **Histórico:** ler `historico.md` e `roteiros/*.json` para não repetir tema dos últimos 30 dias nem
    a mesma categoria nos 2 vídeos do dia.
 3. **Escolher 2 temas** de categorias diferentes entre: animais, corpo humano, espaço, história,
    ciência/física, tecnologia, geografia/planeta, comida, idiomas/palavras. Preferir fatos surpreendentes
