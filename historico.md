@@ -5,5 +5,3 @@
 | 2026-11-03 | 001 | O polvo tem 3 corações e sangue azul | Animais | https://youtu.be/IxYvuIWfsXY | Smithsonian Magazine, Smithsonian Ocean, Live Science, ScienceDaily (OIST) |
 | 2026-11-03 | 002 | Em Vênus, girar 1 vez demora mais que 1 ano | Espaço | https://youtu.be/a3nABbxn6Oc | NASA Science, Universe Today, BIRA-IASB |
 | 2026-11-03 | 003 | O morango não é baga, mas a banana é | Comida/plantas | https://youtu.be/JE7BEZmaUxs | Live Science, Science Notes, Science ABC |
-| 2026-11-04 | 004 | Cleópatra viveu mais perto da chegada à Lua do que da construção da Grande Pirâmide | História (Antiguidade) | envio pendente (bloqueado pela permissão da sessão) | Britannica (Grande Pirâmide, Cleópatra), NASA, WorldAtlas |
-| 2026-11-04 | 005 | Santos-Dumont e o 14-bis: o primeiro voo observado oficialmente na Europa (1906) | História (Brasil, séc. 20) | envio pendente (bloqueado pela permissão da sessão) | FAI, Britannica, Smithsonian NASM |
