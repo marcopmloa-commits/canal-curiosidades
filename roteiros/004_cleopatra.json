@@ -1,0 +1,78 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-FranciscaNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "Cleópatra viveu mais perto da chegada do homem à Lua do que da construção da Grande Pirâmide.",
+      "destaque": "Mais perto da Lua",
+      "sub": "do que da pirâmide",
+      "tamanho": 150,
+      "imagem": "img/004_cleopatra/02_cleopatra.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "A Grande Pirâmide de Gizé foi construída para o faraó Quéops, por volta de 2.560 antes de Cristo.",
+      "destaque": "2560 a.C.",
+      "sub": "Grande Pirâmide",
+      "tamanho": 180,
+      "imagem": "img/004_cleopatra/01_piramide.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "Cleópatra morreu no ano 30 antes de Cristo. Ou seja, uns 2.500 anos depois da pirâmide ficar pronta.",
+      "destaque": "30 a.C.",
+      "sub": "Uns 2.500 anos depois",
+      "tamanho": 180,
+      "imagem": "img/004_cleopatra/02_cleopatra.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Já a Apollo 11 pousou na Lua em 1969, cerca de 2.000 anos depois da morte dela.",
+      "destaque": "1969",
+      "sub": "Uns 2.000 anos depois",
+      "tamanho": 190,
+      "imagem": "img/004_cleopatra/03_pegada.jpg",
+      "foco": 0.55
+    },
+    {
+      "fala": "E tem mais: a família de Cleópatra era de origem macedônia, e a língua materna dela era o grego.",
+      "destaque": "Família macedônia",
+      "sub": "Língua materna: grego",
+      "tamanho": 140
+    },
+    {
+      "fala": "Ela foi a primeira da dinastia a aprender a língua egípcia.",
+      "destaque": "Falava egípcio",
+      "sub": "A primeira da família",
+      "tamanho": 150,
+      "imagem": "img/004_cleopatra/02_cleopatra.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Qual época da história você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é a próxima?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "Cleópatra x Lua",
+  "thumb_sub": "Mais perto da Lua que da pirâmide",
+  "thumb_imagem": "img/004_cleopatra/02_cleopatra.jpg",
+  "thumb_foco": 0.5,
+  "titulo": "Cleópatra viveu mais perto da LUA do que da pirâmide 🏛️ #curiosidades #historia",
+  "descricao": "A Grande Pirâmide de Gizé foi construída para o faraó Quéops por volta de 2560 a.C. Cleópatra morreu em 30 a.C., uns 2.500 anos depois. Já a Apollo 11 pousou na Lua em 1969, cerca de 2.000 anos depois da morte dela. E mais: a família de Cleópatra era de origem macedônia, a língua materna dela era o grego, e ela foi a primeira da dinastia a aprender egípcio.\n\nQual época da história você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #historia #cleopatra #egito #egitoantigo",
+  "tags": ["curiosidades", "você sabia", "história", "Cleópatra", "Egito antigo", "pirâmide de Gizé", "Apollo 11", "chegada à Lua", "fatos curiosos"],
+  "creditos": [
+    "Giza, Pyramids, Pictures, 1883-1885, photo 3 of 27 - Archivio fotografico Museo Egizio, Turin INV01 005.jpg — Félix Bonfils (CC0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Giza,_Pyramids,_Pictures,_1883-1885,_photo_3_of_27_-_Archivio_fotografico_Museo_Egizio,_Turin_INV01_005.jpg",
+    "Bust of Cleopatra VII - Altes Museum - Berlin - Germany 2017.jpg — José Luiz (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Bust_of_Cleopatra_VII_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg",
+    "Apollo 11 bootprint - GPN-2001-000014.jpg — NASA (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Apollo_11_bootprint_-_GPN-2001-000014.jpg"
+  ],
+  "fontes": [
+    "https://www.britannica.com/place/Great-Pyramid-of-Giza",
+    "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+    "https://www.britannica.com/facts/Cleopatra-queen-of-Egypt",
+    "https://www.nasa.gov/history/55-years-ago-apollo-11s-one-small-step-one-giant-leap/",
+    "https://www.worldatlas.com/articles/so-cleopatra-lived-closer-in-time-to-the-first-lunar-landing-than-the-great-pyramids.html"
+  ]
+}

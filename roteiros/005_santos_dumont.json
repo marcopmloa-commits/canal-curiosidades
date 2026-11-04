@@ -1,0 +1,79 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "O primeiro voo de avião observado oficialmente na Europa foi feito por um brasileiro.",
+      "destaque": "Um brasileiro",
+      "sub": "Paris, 1906",
+      "tamanho": 160,
+      "imagem": "img/005_santos_dumont/01_voo.jpg",
+      "foco": 0.55
+    },
+    {
+      "fala": "Era Alberto Santos-Dumont, a bordo do 14-bis, em Paris.",
+      "destaque": "Santos-Dumont",
+      "sub": "e o 14-bis",
+      "tamanho": 150,
+      "imagem": "img/005_santos_dumont/04_retrato.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "E o nome tem explicação: no começo, o avião foi testado pendurado embaixo do dirigível número 14 dele. Por isso, 14-bis.",
+      "destaque": "Por que 14-bis?",
+      "sub": "Testado no dirigível nº 14",
+      "tamanho": 140,
+      "imagem": "img/005_santos_dumont/02_dirigivel.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Em 12 de novembro de 1906, no campo de Bagatelle, ele voou 220 metros em cerca de 21 segundos.",
+      "destaque": "220 metros",
+      "sub": "12 de novembro de 1906",
+      "tamanho": 180,
+      "imagem": "img/005_santos_dumont/01_voo.jpg",
+      "foco": 0.55
+    },
+    {
+      "fala": "Esse voo foi registrado pela Federação Aeronáutica Internacional como o primeiro recorde da aviação.",
+      "destaque": "Primeiro recorde",
+      "sub": "da aviação",
+      "tamanho": 150
+    },
+    {
+      "fala": "Que outro inventor brasileiro você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é o próximo?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "Um brasileiro voou em Paris",
+  "thumb_sub": "14-bis, 1906",
+  "thumb_imagem": "img/005_santos_dumont/01_voo.jpg",
+  "thumb_foco": 0.55,
+  "titulo": "O brasileiro que VOOU em Paris em 1906 ✈️ #curiosidades #historia",
+  "descricao": "Em 12 de novembro de 1906, no campo de Bagatelle, em Paris, Alberto Santos-Dumont voou 220 metros em cerca de 21 segundos com o 14-bis: o primeiro voo de avião observado oficialmente na Europa, registrado pela FAI como o primeiro recorde da aviação. O nome 14-bis vem dos primeiros testes, com o avião pendurado embaixo do dirigível nº 14 dele.\n\nQue outro inventor brasileiro você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #historia #santosdumont #14bis #aviacao #brasil",
+  "tags": [
+    "curiosidades",
+    "você sabia",
+    "história",
+    "Santos-Dumont",
+    "14-bis",
+    "aviação",
+    "história do Brasil",
+    "primeiro voo",
+    "fatos curiosos"
+  ],
+  "creditos": [
+    "Santos Dumont voa em seu 14-bis - Campo de Bagatelle (cropped).jpg — José Rosael/Hélio Nobre/Museu Paulista da USP (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Santos_Dumont_voa_em_seu_14-bis_-_Campo_de_Bagatelle_(cropped).jpg",
+    "As primeiras experiências do 14-bis, juntamente com o Dirigível Nº14 - 1-13801-0000-0000, Acervo do Museu Paulista da USP.jpg — José Rosael/Hélio Nobre/Museu Paulista da USP (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:As_primeiras_experi%C3%AAncias_do_14-bis,_juntamente_com_o_Dirig%C3%ADvel_N%C2%BA14_-_1-13801-0000-0000,_Acervo_do_Museu_Paulista_da_USP.jpg",
+    "Alberto Santos-dumont (1906).tif — Autor desconhecido (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Alberto_Santos-dumont_(1906).tif"
+  ],
+  "fontes": [
+    "http://old.fai.org/news/personalities/42650-12-november-1906-the-first-flight-by-santos-dumont",
+    "https://www.britannica.com/topic/Santos-Dumont-No-14-bis",
+    "https://www.britannica.com/technology/history-of-flight/Other-aviation-pioneers",
+    "https://airandspace.si.edu/multimedia-gallery/image/4492hjpg"
+  ]
+}
