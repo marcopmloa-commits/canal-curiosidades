@@ -1,0 +1,75 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-FranciscaNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "Você já teve mais ossos do que tem hoje. Muito mais.",
+      "destaque": "Você tinha mais ossos",
+      "tamanho": 150,
+      "imagem": "img/006_ossos/01_esqueleto.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Um bebê nasce com algo entre 270 e 300 ossos, dependendo da fonte.",
+      "destaque": "270 a 300",
+      "sub": "Ossos ao nascer",
+      "tamanho": 180,
+      "imagem": "img/006_ossos/03_cranio.jpg",
+      "foco": 0.45
+    },
+    {
+      "fala": "Já um adulto tem, em geral, 206.",
+      "destaque": "206",
+      "sub": "Ossos no adulto",
+      "tamanho": 200,
+      "imagem": "img/006_ossos/01_esqueleto.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Nenhum osso some. Durante o crescimento, vários deles se juntam e viram um só.",
+      "destaque": "Eles se juntam",
+      "tamanho": 160,
+      "imagem": "img/006_ossos/02_raiox.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Um exemplo é o crânio. O bebê nasce com espaços moles entre os ossos da cabeça, a famosa moleira.",
+      "destaque": "A moleira",
+      "sub": "Espaços entre os ossos",
+      "tamanho": 170,
+      "imagem": "img/006_ossos/03_cranio.jpg",
+      "foco": 0.45
+    },
+    {
+      "fala": "A da frente costuma fechar entre os 7 e os 19 meses de vida.",
+      "destaque": "7 a 19 meses",
+      "sub": "A moleira da frente fecha",
+      "tamanho": 160
+    },
+    {
+      "fala": "Qual parte do corpo você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é a próxima?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "Bebê tem mais ossos que você",
+  "thumb_sub": "270 a 300 contra 206",
+  "thumb_imagem": "img/006_ossos/01_esqueleto.jpg",
+  "thumb_foco": 0.5,
+  "titulo": "Você já teve quase 300 OSSOS 🦴 #curiosidades #corpohumano",
+  "descricao": "Um bebê nasce com algo entre 270 e 300 ossos, dependendo da fonte. Um adulto tem, em geral, 206. Nenhum osso some: durante o crescimento, vários se juntam. No crânio, o bebê nasce com espaços moles entre os ossos, a moleira, e a da frente costuma fechar entre os 7 e os 19 meses.\n\nQual parte do corpo você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #corpohumano #ossos #ciencia #biologia",
+  "tags": ["curiosidades", "você sabia", "corpo humano", "ossos", "esqueleto", "bebê", "moleira", "ciência", "fatos curiosos", "anatomia"],
+  "creditos": [
+    "Human-Skeleton — Sklmsta (CC0), via Wikimedia Commons: https://commons.wikimedia.org/w/index.php?curid=9896470",
+    "Bones of a hand. Radiograph, 1900-1904. Wellcome L0026317.jpg — Wellcome Collection, autor desconhecido (CC BY 4.0), via Wikimedia Commons: https://commons.wikimedia.org/w/index.php?curid=36011604",
+    "905 The Newborn Skull.jpg — OpenStax College (CC BY 3.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:905_The_Newborn_Skull.jpg"
+  ],
+  "fontes": [
+    "https://www.niams.nih.gov/health-topics/educational-resources/health-lesson-learning-about-bones",
+    "https://my.clevelandclinic.org/health/body/25176-bones",
+    "https://www.ncbi.nlm.nih.gov/sites/books/NBK441968/",
+    "https://medlineplus.gov/ency/article/002320.htm"
+  ]
+}

@@ -7,3 +7,5 @@
 | 2026-11-03 | 003 | O morango não é baga, mas a banana é | Comida/plantas | https://youtu.be/JE7BEZmaUxs | Live Science, Science Notes, Science ABC |
 | 2026-11-04 | 004 | Cleópatra viveu mais perto da chegada à Lua do que da construção da Grande Pirâmide | História (Antiguidade) | https://youtu.be/PC1e0f4gEOE | Britannica (Grande Pirâmide, Cleópatra), NASA, WorldAtlas |
 | 2026-11-04 | 005 | Santos-Dumont e o 14-bis: o primeiro voo observado oficialmente na Europa (1906) | História (Brasil, séc. 20) | https://youtu.be/2DxvJllgO5o | FAI, Britannica, Smithsonian NASM |
+| 2026-11-05 | 006 | Bebê nasce com 270–300 ossos; adulto tem 206 (a moleira) | Corpo humano | https://youtu.be/rvUPVjBHLMk | NIAMS/NIH, Cleveland Clinic, StatPearls/NCBI, MedlinePlus |
+| 2026-11-05 | 007 | A maior fronteira terrestre da França é com o Brasil (Guiana Francesa, Kourou, Monte Caburaí) | Geografia | https://youtu.be/kyUd5gsi-a4 | Senado francês, Revue Conflits, Britannica, BCE, NASA, IBGE |

@@ -1,0 +1,77 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-FranciscaNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "A maior fronteira terrestre da França não é com nenhum país da Europa. É com o Brasil.",
+      "destaque": "França x Brasil",
+      "sub": "A maior fronteira da França",
+      "tamanho": 160,
+      "imagem": "img/007_franca_brasil/02_oiapoque.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Isso porque a Guiana Francesa, vizinha do Amapá, faz parte da França.",
+      "destaque": "Guiana Francesa",
+      "sub": "Território francês",
+      "tamanho": 150,
+      "imagem": "img/007_franca_brasil/03_kourou.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Essa fronteira tem mais de 730 quilômetros, e boa parte dela segue o rio Oiapoque.",
+      "destaque": "730 km",
+      "sub": "Pelo rio Oiapoque",
+      "tamanho": 190,
+      "imagem": "img/007_franca_brasil/02_oiapoque.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "E lá a moeda é o euro, igualzinho a Paris.",
+      "destaque": "Paga-se em euro",
+      "tamanho": 160
+    },
+    {
+      "fala": "Tem mais: é da Guiana Francesa que a Europa lança seus foguetes. O telescópio James Webb subiu de lá em 2021.",
+      "destaque": "O Webb subiu de lá",
+      "sub": "Kourou, 2021",
+      "tamanho": 140,
+      "imagem": "img/007_franca_brasil/05_lancamento.jpg",
+      "foco": 0.55
+    },
+    {
+      "fala": "E um bônus: o ponto mais ao norte do Brasil nem é o Oiapoque. É o Monte Caburaí, em Roraima.",
+      "destaque": "Do Caburaí ao Chuí",
+      "sub": "Não é o Oiapoque",
+      "tamanho": 140
+    },
+    {
+      "fala": "Que outro país você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é o próximo?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "A França faz fronteira com o Brasil",
+  "thumb_sub": "E é a maior dela",
+  "thumb_imagem": "img/007_franca_brasil/02_oiapoque.jpg",
+  "thumb_foco": 0.5,
+  "titulo": "A maior fronteira da FRANÇA é com o BRASIL 🇧🇷🇫🇷 #curiosidades #geografia",
+  "descricao": "A maior fronteira terrestre da França é com o Brasil: a Guiana Francesa, vizinha do Amapá, faz parte da França. São mais de 730 km, boa parte pelo rio Oiapoque, e lá a moeda é o euro. É de Kourou, na Guiana Francesa, que a Europa lança seus foguetes: o telescópio James Webb subiu de lá em 2021. E o ponto mais ao norte do Brasil não é o Oiapoque, é o Monte Caburaí, em Roraima.\n\nQue outro país você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #geografia #brasil #franca #guianafrancesa #oiapoque",
+  "tags": ["curiosidades", "você sabia", "geografia", "Brasil", "França", "Guiana Francesa", "Oiapoque", "fronteira", "Monte Caburaí", "fatos curiosos"],
+  "creditos": [
+    "Rio Oiapoque (2709634125).jpg — OBORÉ / Projeto Repórter do Futuro (CC BY 2.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Rio_Oiapoque_(2709634125).jpg",
+    "Kouru, French Guiana — NASA (domínio público): https://images.nasa.gov/details/PIA17099",
+    "James Webb Space Telescope Launch — NASA (domínio público): https://images.nasa.gov/details/NHQ202112250015"
+  ],
+  "fontes": [
+    "https://www.senat.fr/rap/r22-846/r22-8463.html",
+    "https://www.revueconflits.com/guyane-francaise%E2%80%91bresil-une-frontiere-sous-tension/",
+    "https://www.britannica.com/place/French-Guiana",
+    "https://ecb.europa.eu/ecb/educational/explainers/show-me/html/euro_outside_europe.en.html",
+    "https://science.nasa.gov/mission/webb/webb-mission-timeline/",
+    "https://educa.ibge.gov.br/criancas/voce-sabia/23101-pontos-extremos.html",
+    "https://agenciadenoticias.ibge.gov.br/pt/agencia-noticias/21261-brasiliense-percorre-o-pais-e-chega-aos-quatro-pontos-extremos.html"
+  ]
+}
