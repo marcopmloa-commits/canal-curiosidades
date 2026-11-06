@@ -1,0 +1,118 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "Em 1914, um ex-presidente dos Estados Unidos quase morreu num rio da Amazônia. E quem guiava a viagem era um brasileiro.",
+      "destaque": "Quase morreu na Amazônia",
+      "sub": "1914",
+      "tamanho": 130,
+      "imagem": "img/009_rondon/05_rio.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "O americano era Theodore Roosevelt. O brasileiro, Cândido Rondon.",
+      "destaque": "Roosevelt e Rondon",
+      "tamanho": 150,
+      "imagem": "img/009_rondon/04_rondon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Juntos, eles lideraram a Expedição Científica Roosevelt-Rondon, entre 1913 e 1914.",
+      "destaque": "1913 a 1914",
+      "sub": "Expedição Roosevelt-Rondon",
+      "tamanho": 170,
+      "imagem": "img/009_rondon/03_mapa_expedicao.jpg",
+      "foco": 0.45
+    },
+    {
+      "fala": "A missão era descer um rio que ninguém tinha mapeado. O nome dele era Rio da Dúvida.",
+      "destaque": "Rio da Dúvida",
+      "sub": "Um rio fora do mapa",
+      "tamanho": 160,
+      "imagem": "img/009_rondon/05_rio.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Eles chegaram à cabeceira do rio em 27 de fevereiro de 1914.",
+      "destaque": "27 de fevereiro",
+      "sub": "1914",
+      "tamanho": 160,
+      "imagem": "img/009_rondon/03_mapa_expedicao.jpg",
+      "foco": 0.35
+    },
+    {
+      "fala": "No caminho, Roosevelt machucou a perna, o ferimento infeccionou e ele pegou uma febre forte, provavelmente malária.",
+      "destaque": "Ferida e febre",
+      "tamanho": 160
+    },
+    {
+      "fala": "A febre passou de 40 graus, e ele perdeu cerca de 25 quilos até o fim da viagem.",
+      "destaque": "Menos 25 kg",
+      "sub": "Febre de mais de 40 °C",
+      "tamanho": 180
+    },
+    {
+      "fala": "O grupo só chegou a um lugar seguro com a ajuda de seringueiros que encontraram pelo caminho.",
+      "destaque": "Salvos por seringueiros",
+      "tamanho": 140,
+      "imagem": "img/009_rondon/05_rio.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "Em homenagem à expedição, o Rio da Dúvida ganhou um novo nome: Rio Roosevelt.",
+      "destaque": "Rio Roosevelt",
+      "sub": "O novo nome",
+      "tamanho": 170,
+      "imagem": "img/009_rondon/02_mapa_apontando.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "E Rondon também virou nome de lugar. Em 1956, o Território do Guaporé passou a se chamar Rondônia, em homenagem a ele.",
+      "destaque": "Rondônia",
+      "sub": "Homenagem a Rondon",
+      "tamanho": 170,
+      "imagem": "img/009_rondon/07_rondonia.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Tem mais: em 1925, Albert Einstein escreveu que Rondon seria muito merecedor do Prêmio Nobel da Paz.",
+      "destaque": "Einstein e o Nobel",
+      "sub": "Carta de 1925",
+      "tamanho": 150,
+      "imagem": "img/009_rondon/06_einstein.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Que outra história do Brasil você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é a próxima?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "Roosevelt quase morreu aqui",
+  "thumb_sub": "Guiado por um brasileiro",
+  "thumb_imagem": "img/009_rondon/05_rio.jpg",
+  "thumb_foco": 0.5,
+  "titulo": "O ex-presidente dos EUA que quase MORREU na Amazônia 🛶 #curiosidades #historia",
+  "descricao": "Entre 1913 e 1914, Theodore Roosevelt e Cândido Rondon lideraram a Expedição Científica Roosevelt-Rondon para descer o Rio da Dúvida, que ninguém tinha mapeado. Roosevelt teve a perna ferida e infeccionada, febre de mais de 40 graus e perdeu cerca de 25 kg; o grupo chegou a um lugar seguro com a ajuda de seringueiros. O rio virou Rio Roosevelt, e em 1956 o Território do Guaporé passou a se chamar Rondônia, em homenagem a Rondon. Em 1925, Albert Einstein escreveu que Rondon seria muito merecedor do Nobel da Paz.\n\nQue outra história do Brasil você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #historia #historiadobrasil #rondon #amazonia",
+  "tags": ["curiosidades", "você sabia", "história", "história do Brasil", "Marechal Rondon", "Theodore Roosevelt", "Rio da Dúvida", "Rondônia", "Amazônia", "fatos curiosos"],
+  "creditos": [
+    "President Roosevelt pointing at a map of South America towards the area explored during the Roosevelt-Rondon Scientific Expedition in Brazil as another man looks on LCCN2009633768.jpg — Library of Congress (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:President_Roosevelt_pointing_at_a_map_of_South_America_towards_the_area_explored_during_the_Roosevelt-Rondon_Scientific_Expedition_in_Brazil_as_another_man_looks_on_LCCN2009633768.jpg",
+    "Roosevelt-Rondon Scientific Expedition, map showing the complete route of Roosevelt's South American journey.jpg — autor desconhecido (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Roosevelt-Rondon_Scientific_Expedition,_map_showing_the_complete_route_of_Roosevelt%27s_South_American_journey.jpg",
+    "Cândido Mariano da Silva Rondon, c. 1910.jpg — autor desconhecido (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:C%C3%A2ndido_Mariano_da_Silva_Rondon,_c._1910.jpg",
+    "Theodore Roosevelt, 1858-1919; lantern slide of Roosevelt's Brazil expedition, 1913, taken by his son Kermit LCCN2006689850.jpg — Kermit Roosevelt, fotógrafo (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt,_1858-1919;_lantern_slide_of_Roosevelt%27s_Brazil_expedition,_1913,_taken_by_his_son_Kermit_LCCN2006689850.jpg",
+    "Albert Einstein 1921.jpg — Harris & Ewing Studio (CC0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Albert_Einstein_1921.jpg",
+    "Brazil Rondônia relief map.jpg — Allice Hunter (CC BY-SA 4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Brazil_Rond%C3%B4nia_relief_map.jpg"
+  ],
+  "fontes": [
+    "https://guides.loc.gov/brazil-us-relations/roosevelt-rondon-expedition",
+    "https://www.theodorerooseveltcenter.org/encyclopedia/strenuous-life/river-of-doubt/",
+    "https://www.smithsonianmag.com/history/teddy-roosevelt-deadly-amazon-expedition-180981807/",
+    "https://rbg.ibge.gov.br/index.php/rbg/article/view/1563/1206",
+    "https://biblioteca.ibge.gov.br/visualizacao/periodicos/113/col_mono_n3_territoriorondonia_2ed.pdf",
+    "https://einsteinpapers.press.princeton.edu/vol14-trans/513",
+    "https://revistas.cbpf.br/index.php/CS/article/view/58"
+  ]
+}

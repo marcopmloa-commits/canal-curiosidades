@@ -1,0 +1,69 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "A capital do Brasil foi construída do zero em menos de quatro anos.",
+      "destaque": "Menos de 4 anos",
+      "sub": "Uma capital do zero",
+      "tamanho": 160,
+      "imagem": "img/008_brasilia/02_obra.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "As obras de Brasília começaram em 1956. E a cidade foi inaugurada em 21 de abril de 1960.",
+      "destaque": "1956 a 1960",
+      "sub": "Inaugurada em 21 de abril",
+      "tamanho": 170,
+      "imagem": "img/008_brasilia/03_inauguracao.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Foram cerca de 41 meses de obra, no meio do cerrado.",
+      "destaque": "41 meses",
+      "tamanho": 190,
+      "imagem": "img/008_brasilia/02_obra.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "O plano da cidade é do urbanista Lúcio Costa, e os prédios principais são do arquiteto Oscar Niemeyer.",
+      "destaque": "Lúcio Costa e Niemeyer",
+      "tamanho": 130,
+      "imagem": "img/008_brasilia/01_congresso.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Até então, a capital era o Rio de Janeiro. E em 1987 Brasília virou Patrimônio Mundial da UNESCO.",
+      "destaque": "Patrimônio Mundial",
+      "sub": "UNESCO, 1987",
+      "tamanho": 150,
+      "imagem": "img/008_brasilia/01_congresso.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Que outra cidade você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é a próxima?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "Brasília em 41 meses",
+  "thumb_sub": "Uma capital do zero",
+  "thumb_imagem": "img/008_brasilia/01_congresso.jpg",
+  "thumb_foco": 0.5,
+  "titulo": "Brasília foi construída em MENOS DE 4 ANOS 🏗️ #curiosidades #historia",
+  "descricao": "As obras de Brasília começaram em 1956 e a cidade foi inaugurada em 21 de abril de 1960: cerca de 41 meses de construção. O plano é de Lúcio Costa e os prédios principais, de Oscar Niemeyer. Até então, a capital era o Rio de Janeiro. Em 1987, Brasília virou Patrimônio Mundial da UNESCO.\n\nQue outra cidade você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #historia #historiadobrasil #brasilia #niemeyer",
+  "tags": ["curiosidades", "você sabia", "história", "história do Brasil", "Brasília", "Oscar Niemeyer", "Lúcio Costa", "JK", "fatos curiosos"],
+  "creditos": [
+    "Construção de Brasília Congresso Nacional e Câmara dos Deputados 1959.jpg — autor desconhecido (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Constru%C3%A7%C3%A3o_de_Bras%C3%ADlia_Congresso_Nacional_e_C%C3%A2mara_dos_Deputados_1959.jpg",
+    "Construção de Brasília 1959-10.jpg — autor desconhecido (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Constru%C3%A7%C3%A3o_de_Bras%C3%ADlia_1959-10.jpg",
+    "Inauguração de Brasília - BR RJANRIO PH 0 FOT 00749 0058, Acervo do Arquivo Nacional.jpg — autor desconhecido (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_BR_RJANRIO_PH_0_FOT_00749_0058,_Acervo_do_Arquivo_Nacional.jpg"
+  ],
+  "fontes": [
+    "https://whc.unesco.org/en/list/445/",
+    "https://www.britannica.com/summary/Brasilia",
+    "https://kids.britannica.com/students/article/Brazil/273339",
+    "https://domusweb.it/en/speciali/brasilia/2020/brasilia-today-we-celebrate-its-60th-anniversary.html"
+  ]
+}

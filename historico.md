@@ -9,3 +9,5 @@
 | 2026-11-04 | 005 | Santos-Dumont e o 14-bis: o primeiro voo observado oficialmente na Europa (1906) | História (Brasil, séc. 20) | https://youtu.be/2DxvJllgO5o | FAI, Britannica, Smithsonian NASM |
 | 2026-11-05 | 006 | Bebê nasce com 270–300 ossos; adulto tem 206 (a moleira) | Corpo humano | https://youtu.be/rvUPVjBHLMk | NIAMS/NIH, Cleveland Clinic, StatPearls/NCBI, MedlinePlus |
 | 2026-11-05 | 007 | A maior fronteira terrestre da França é com o Brasil (Guiana Francesa, Kourou, Monte Caburaí) | Geografia | https://youtu.be/kyUd5gsi-a4 | Senado francês, Revue Conflits, Britannica, BCE, NASA, IBGE |
+| 2026-11-06 | 008 | Brasília foi construída em cerca de 41 meses (1956–1960) | História (Brasil, séc. 20) | https://youtu.be/f5eYwmGHiIs | UNESCO, Britannica, Domus |
+| 2026-11-06 | 009 | Expedição Roosevelt-Rondon (1913–14): Rio da Dúvida, Rio Roosevelt, Rondônia e a carta de Einstein | História (Brasil, séc. 20) | https://youtu.be/JaEfFhx_RzY | Library of Congress, Theodore Roosevelt Center, Smithsonian, IBGE, Einstein Papers (Princeton), CBPF |
