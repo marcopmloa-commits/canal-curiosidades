@@ -1,0 +1,82 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-FranciscaNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "Você fala OK quase todo dia. Mas essa palavra nasceu de uma piada de jornal.",
+      "destaque": "OK",
+      "sub": "Nasceu de uma piada",
+      "tamanho": 220
+    },
+    {
+      "fala": "Em 23 de março de 1839, um jornal de Boston publicou OK como abreviação de oll korrect.",
+      "destaque": "Oll Korrect",
+      "sub": "Boston, 1839",
+      "tamanho": 170
+    },
+    {
+      "fala": "Era um jeito errado, de propósito, de escrever all correct: tudo certo, em inglês. Abreviações engraçadas assim estavam na moda nos jornais.",
+      "destaque": "Tudo certo",
+      "sub": "Escrito errado de propósito",
+      "tamanho": 170
+    },
+    {
+      "fala": "A palavra se espalhou em 1840, na campanha do presidente americano Martin Van Buren.",
+      "destaque": "Van Buren, 1840",
+      "tamanho": 160,
+      "imagem": "img/011_ok/03_vanburen2.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "O apelido dele era Old Kinderhook, por causa da cidade onde nasceu, Kinderhook.",
+      "destaque": "Old Kinderhook",
+      "sub": "Kinderhook, Nova York",
+      "tamanho": 160,
+      "imagem": "img/011_ok/02_kinderhook.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "E os apoiadores dele criaram os OK Clubs. Foi assim que o OK se espalhou.",
+      "destaque": "OK Clubs",
+      "sub": "Campanha de 1840",
+      "tamanho": 180,
+      "imagem": "img/011_ok/01_vanburen.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Qual palavra você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é a próxima?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "OK nasceu de uma piada",
+  "thumb_sub": "Boston, 1839",
+  "thumb_imagem": "img/011_ok/01_vanburen.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "A palavra OK nasceu de uma PIADA 👌 #curiosidades #palavras",
+  "descricao": "Em 23 de março de 1839, um jornal de Boston publicou OK como abreviação de \"oll korrect\", um jeito errado, de propósito, de escrever \"all correct\" (tudo certo). Abreviações engraçadas assim estavam na moda nos jornais. A palavra se espalhou em 1840, na campanha do presidente americano Martin Van Buren, apelidado de Old Kinderhook por causa da cidade onde nasceu; os apoiadores criaram os OK Clubs. A origem foi desvendada pelo pesquisador Allen Walker Read nos anos 1960.\n\nQual palavra você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #palavras #ingles #idiomas #historia",
+  "tags": [
+    "curiosidades",
+    "você sabia",
+    "palavras",
+    "origem das palavras",
+    "OK",
+    "inglês",
+    "idiomas",
+    "etimologia",
+    "fatos curiosos"
+  ],
+  "creditos": [
+    "Bust Portrait of Martin Van Buren.jpg — autor desconhecido (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Bust_Portrait_of_Martin_Van_Buren.jpg",
+    "Kinderhook, New York - 4346793469.jpg — Dougtone (CC BY-SA 2.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Kinderhook,_New_York_-_4346793469.jpg",
+    "Francis Alexander - Martin Van Buren - Google Art Project.jpg — Francis Alexander (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Francis_Alexander_-_Martin_Van_Buren_-_Google_Art_Project.jpg"
+  ],
+  "fontes": [
+    "https://www.smithsonianmag.com/smart-news/how-one-man-discovered-the-obscure-origins-of-the-word-ok-180953258/",
+    "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
+    "https://www.npr.org/2025/07/23/nx-s1-5463788/ok-origin-martin-van-buren",
+    "https://www.etymonline.com/word/OK"
+  ]
+}

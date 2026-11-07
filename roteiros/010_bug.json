@@ -1,0 +1,85 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-FranciscaNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "Um dos bugs de computador mais famosos era um inseto de verdade.",
+      "destaque": "Um bug de verdade",
+      "tamanho": 160,
+      "imagem": "img/010_bug/02_mariposa.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "Em 9 de setembro de 1947, a equipe do computador Harvard Mark II achou uma mariposa presa dentro de uma peça da máquina.",
+      "destaque": "9 de setembro de 1947",
+      "sub": "Harvard Mark II",
+      "tamanho": 130,
+      "imagem": "img/010_bug/02_mariposa.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Eles colaram a mariposa no caderno de registro e escreveram: primeiro caso real de bug encontrado.",
+      "destaque": "Colada no caderno",
+      "sub": "First actual case of bug",
+      "tamanho": 150,
+      "imagem": "img/010_bug/01_registro.jpg",
+      "foco": 0.35
+    },
+    {
+      "fala": "A piada é que a palavra bug, para defeito, já era bem mais antiga. Thomas Edison já usava o termo no século 19.",
+      "destaque": "Edison já falava bug",
+      "sub": "Século 19",
+      "tamanho": 140,
+      "imagem": "img/010_bug/03_edison.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Muita gente atribui a anotação à cientista Grace Hopper. Mas, segundo o Smithsonian, o caderno provavelmente não era dela.",
+      "destaque": "Não foi Grace Hopper?",
+      "tamanho": 140
+    },
+    {
+      "fala": "Hoje esse caderno, com a mariposa ainda colada, está num museu do Smithsonian, nos Estados Unidos.",
+      "destaque": "Está num museu",
+      "sub": "Com a mariposa colada",
+      "tamanho": 150,
+      "imagem": "img/010_bug/01_registro.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Qual invenção você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é a próxima?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "O 1º bug era um inseto",
+  "thumb_sub": "Uma mariposa, em 1947",
+  "thumb_imagem": "img/010_bug/01_registro.jpg",
+  "thumb_foco": 0.4,
+  "titulo": "O BUG de computador que era um inseto de verdade 🦋 #curiosidades #tecnologia",
+  "descricao": "Em 9 de setembro de 1947, a equipe do computador Harvard Mark II achou uma mariposa presa num relé da máquina. Ela foi colada no caderno de registro com a frase \"First actual case of bug being found\" (primeiro caso real de bug encontrado). A palavra bug para defeito já era mais antiga: Thomas Edison já usava o termo no século 19. Muita gente atribui a anotação a Grace Hopper, mas, segundo o Smithsonian, o caderno provavelmente não era dela. Hoje ele está no acervo do Museu Nacional de História Americana.\n\nQual invenção você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #tecnologia #computador #historia #bug",
+  "tags": [
+    "curiosidades",
+    "você sabia",
+    "tecnologia",
+    "bug",
+    "computador",
+    "Harvard Mark II",
+    "mariposa",
+    "história da computação",
+    "fatos curiosos"
+  ],
+  "creditos": [
+    "First Computer Bug, 1947.jpg — Courtesy of the Naval Surface Warfare Center, Dahlgren, VA., 1988 (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:First_Computer_Bug,_1947.jpg",
+    "Edison and phonograph edit1.jpg — Levin C. Handy (Public domain), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Edison_and_phonograph_edit1.jpg",
+    "Butterflies and Moths — (c) Pav Johnsson, some rights reserved (CC BY), via iNaturalist: https://www.inaturalist.org/photos/357771622"
+  ],
+  "fontes": [
+    "https://www.si.edu/object/log-book-computer-bug:nmah_334663",
+    "https://www.computerhistory.org/tdih/september/9/",
+    "https://www.britannica.com/today-in-history/September-9-The-First-Literal-Computer-Bug",
+    "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-96000/NH-96566-KN.html"
+  ]
+}
