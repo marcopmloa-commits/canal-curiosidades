@@ -1,0 +1,75 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-FranciscaNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "O flamingo não nasce cor-de-rosa.",
+      "destaque": "Não nasce rosa",
+      "tamanho": 170,
+      "imagem": "img/013_flamingo/02_bando.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Os filhotes nascem com penas cinza ou brancas. O rosa vai aparecendo aos poucos, conforme eles crescem.",
+      "destaque": "Filhote cinza",
+      "sub": "O rosa vem depois",
+      "tamanho": 170
+    },
+    {
+      "fala": "E o segredo está na comida. O flamingo filtra da água algas e pequenos crustáceos.",
+      "destaque": "Vem da comida",
+      "tamanho": 170,
+      "imagem": "img/013_flamingo/03_comendo.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Esses alimentos têm pigmentos chamados carotenoides.",
+      "destaque": "Carotenoides",
+      "sub": "Pigmentos da comida",
+      "tamanho": 160,
+      "imagem": "img/013_flamingo/04_crustaceos.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "O corpo do flamingo transforma esses pigmentos, e eles vão parar nas penas, nas pernas e no bico.",
+      "destaque": "Penas, pernas e bico",
+      "tamanho": 140,
+      "imagem": "img/013_flamingo/01_voando.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Por isso, a cor depende da espécie e do que ele come, e vai do rosa clarinho ao vermelho forte.",
+      "destaque": "Do rosa ao vermelho",
+      "tamanho": 150,
+      "imagem": "img/013_flamingo/02_bando.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Qual animal você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é o próximo?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "O flamingo nasce cinza",
+  "thumb_sub": "O rosa vem da comida",
+  "thumb_imagem": "img/013_flamingo/01_voando.jpg",
+  "thumb_foco": 0.5,
+  "titulo": "O flamingo NÃO nasce rosa 🦩 #curiosidades #animais",
+  "descricao": "Os filhotes de flamingo nascem com penas cinza ou brancas, e o rosa aparece aos poucos. A cor vem da comida: algas e pequenos crustáceos com pigmentos chamados carotenoides. O corpo transforma esses pigmentos, que vão parar nas penas, nas pernas e no bico. Por isso a cor depende da espécie e da dieta, do rosa clarinho ao vermelho forte.\n\nQual animal você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #animais #flamingo #aves #natureza",
+  "tags": ["curiosidades", "você sabia", "animais", "flamingo", "aves", "carotenoides", "natureza", "biologia", "fatos curiosos"],
+  "creditos": [
+    "American Flamingo — (c) gwar, some rights reserved (CC BY), via iNaturalist: https://www.inaturalist.org/photos/314355873",
+    "American Flamingo — no rights reserved, via iNaturalist: https://www.inaturalist.org/photos/186536361",
+    "American Flamingo — (c) Juan Cruzado Cortés, some rights reserved (CC BY-SA), via iNaturalist: https://www.inaturalist.org/photos/58963097",
+    "Fairy Shrimps — (c) Matt Berger, some rights reserved (CC BY), via iNaturalist: https://www.inaturalist.org/photos/512037180"
+  ],
+  "fontes": [
+    "https://www.smithsonianmag.com/blogs/national-zoo-conservation-biology-institute/2021/07/13/10-things-you-didnt-know-about-flamingos/",
+    "https://www.smithsonianmag.com/science-nature/for-some-species-you-really-are-what-you-eat-40747423/",
+    "https://www.britannica.com/animal/flamingo-bird",
+    "https://seaworld.org/animals/all-about/flamingos/diet/",
+    "https://nationalzoo.si.edu/news/flamingo-hatches-smithsonians-national-zoo"
+  ]
+}

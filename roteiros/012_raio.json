@@ -1,0 +1,128 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "Cinco curiosidades sobre o raio. E a última é sobre o Brasil.",
+      "destaque": "5 curiosidades",
+      "sub": "sobre o raio",
+      "tamanho": 170,
+      "imagem": "img/012_raio/02_pad39b_b.jpg",
+      "foco": 0.55
+    },
+    {
+      "fala": "Um: o ar dentro de um raio pode chegar a quase 28 mil graus Celsius.",
+      "destaque": "1",
+      "sub": "Quase 28 mil °C",
+      "tamanho": 260,
+      "imagem": "img/012_raio/06_pad39b_c.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Segundo a agência americana NOAA, é umas cinco vezes mais quente que a superfície do Sol.",
+      "destaque": "5x o Sol",
+      "sub": "Mais quente que a superfície",
+      "tamanho": 180,
+      "imagem": "img/012_raio/06_pad39b_c.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Dois: o trovão é o som desse ar, que esquenta tão rápido que se expande de forma explosiva, como uma onda de choque.",
+      "destaque": "2",
+      "sub": "O som do ar explodindo",
+      "tamanho": 260,
+      "imagem": "img/012_raio/03_espaco.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Três: dá para saber a distância do raio. Conte os segundos entre o clarão e o trovão e divida por três.",
+      "destaque": "3",
+      "sub": "Segundos ÷ 3 = km",
+      "tamanho": 260,
+      "imagem": "img/012_raio/04_tempestade.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Quinze segundos, por exemplo, quer dizer que o raio caiu a uns cinco quilômetros.",
+      "destaque": "15 s = 5 km",
+      "tamanho": 180
+    },
+    {
+      "fala": "Quatro: é mito que raio não cai duas vezes no mesmo lugar. Torres e prédios altos são atingidos várias vezes.",
+      "destaque": "4",
+      "sub": "Cai, sim, no mesmo lugar",
+      "tamanho": 260,
+      "imagem": "img/012_raio/01_pad39b.jpg",
+      "foco": 0.55
+    },
+    {
+      "fala": "O Empire State Building, em Nova York, leva mais de 20 raios por ano, em média.",
+      "destaque": "+20 por ano",
+      "sub": "Empire State Building",
+      "tamanho": 180
+    },
+    {
+      "fala": "Cinco: o Brasil é o país com mais raios do mundo, segundo o INPE, o Instituto Nacional de Pesquisas Espaciais.",
+      "destaque": "5",
+      "sub": "Brasil, campeão de raios",
+      "tamanho": 260,
+      "imagem": "img/012_raio/05_atlantico.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Em média, são cerca de 78 milhões de raios por ano por aqui.",
+      "destaque": "78 milhões",
+      "sub": "Raios por ano no Brasil",
+      "tamanho": 170
+    },
+    {
+      "fala": "E fica a dica: se o trovão chegar em 30 segundos ou menos depois do clarão, procure abrigo.",
+      "destaque": "30 segundos",
+      "sub": "Procure abrigo",
+      "tamanho": 170
+    },
+    {
+      "fala": "Qual fenômeno da natureza você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é o próximo?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "O raio é 5x mais quente que o Sol",
+  "thumb_sub": "E mais 4 curiosidades",
+  "thumb_imagem": "img/012_raio/02_pad39b_b.jpg",
+  "thumb_foco": 0.55,
+  "titulo": "5 curiosidades sobre o RAIO ⚡ (o Brasil é campeão) #curiosidades #ciencia",
+  "descricao": "1) O ar dentro de um raio pode chegar a quase 28 mil °C, umas cinco vezes mais quente que a superfície do Sol (NOAA). 2) O trovão é o som desse ar se expandindo de forma explosiva. 3) Conte os segundos entre o clarão e o trovão e divida por 3: é a distância em km. 4) É mito que raio não cai duas vezes no mesmo lugar: o Empire State Building leva mais de 20 raios por ano, em média. 5) O Brasil é o país com mais raios do mundo, cerca de 78 milhões por ano (INPE). Se o trovão chegar em 30 segundos ou menos, procure abrigo.\n\nQual fenômeno da natureza você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #ciencia #raio #tempestade #fisica",
+  "tags": [
+    "curiosidades",
+    "você sabia",
+    "ciência",
+    "raio",
+    "trovão",
+    "tempestade",
+    "física",
+    "INPE",
+    "fatos curiosos",
+    "natureza"
+  ],
+  "creditos": [
+    "Lightning Strikes at Pad 39B — NASA (domínio público): https://images.nasa.gov/details/KSC-20190809-PH-NAS01_0001",
+    "Lightning Strikes at Pad 39B — NASA (domínio público): https://images.nasa.gov/details/KSC-20110527-PH-NAS01_0001",
+    "Lightning illuminates the clouds during a storm off the coast of North Carolina — NASA (domínio público): https://images.nasa.gov/details/iss073e0080625",
+    "Thunderstorm, Texas Gulf Coast, USA — NASA (domínio público): https://images.nasa.gov/details/s31-77-078",
+    "Lightning illuminates the clouds above the Atlantic Ocean — NASA (domínio público): https://images.nasa.gov/details/iss073e0203588",
+    "Lightning Strikes at Pad 39B — NASA (domínio público): https://images.nasa.gov/details/KSC-20140329-PH-NAS01_0001"
+  ],
+  "fontes": [
+    "https://www.weather.gov/safety/lightning-temperature",
+    "https://www.noaa.gov/jetstream/lightning/sound-of-thunder",
+    "https://www.noaa.gov/jetstream/lightning/lightning-safety",
+    "https://www.weather.gov/safety/lightning-myths",
+    "https://www.noaa.gov/stories/5-striking-facts-versus-myths-about-lightning-you-should-know",
+    "https://www.weather.gov/mlb/lightning_facts",
+    "https://www.cnnbrasil.com.br/nacional/comeca-a-temporada-de-raios-brasil-e-o-pais-com-mais-incidencias-no-mundo/",
+    "https://www.poder360.com.br/brasil/brasil-registra-778-milhoes-de-raios-por-ano-e-prejuizo-de-r-100-milhoes/"
+  ]
+}

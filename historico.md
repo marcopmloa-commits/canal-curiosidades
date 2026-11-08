@@ -13,3 +13,5 @@
 | 2026-11-06 | 009 | Expedição Roosevelt-Rondon (1913–14): Rio da Dúvida, Rio Roosevelt, Rondônia e a carta de Einstein | História (Brasil, séc. 20) | https://youtu.be/JaEfFhx_RzY | Library of Congress, Theodore Roosevelt Center, Smithsonian, IBGE, Einstein Papers (Princeton), CBPF |
 | 2026-11-07 | 010 | O "bug" de 1947: a mariposa no Harvard Mark II | Tecnologia | https://youtu.be/SBdNydIJA90 | Smithsonian (NMAH), Computer History Museum, Britannica, Naval History and Heritage Command |
 | 2026-11-07 | 011 | A palavra OK nasceu de uma piada de jornal (Boston, 1839) | Idiomas/palavras | https://youtu.be/Axw9RXIm8Rw | Smithsonian Magazine, Merriam-Webster, NPR, Etymonline |
+| 2026-11-08 | 012 | 5 curiosidades sobre o raio (temperatura, trovão, distância, mesmo lugar, Brasil campeão) | Ciência/física | https://youtu.be/QWkZB1H_414 | NOAA/NWS, INPE (via CNN Brasil e Poder360) |
+| 2026-11-08 | 013 | O flamingo não nasce rosa: a cor vem da comida | Animais | https://youtu.be/Vl0vb_ihX6M | Smithsonian (National Zoo), Britannica, SeaWorld |
