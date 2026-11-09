@@ -1,0 +1,73 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "O mel é um dos poucos alimentos que podem durar séculos sem estragar.",
+      "destaque": "Dura séculos",
+      "tamanho": 180,
+      "imagem": "img/015_mel/01_colher.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Segundo a revista Smithsonian, arqueólogos já acharam potes de mel com milhares de anos em túmulos do Egito antigo, ainda preservados.",
+      "destaque": "Mel de milhares de anos",
+      "sub": "Túmulos do Egito",
+      "tamanho": 130
+    },
+    {
+      "fala": "O segredo é uma combinação. Primeiro: o mel tem muito pouca água, e os micróbios precisam de água para crescer.",
+      "destaque": "Pouca água",
+      "tamanho": 180,
+      "imagem": "img/015_mel/03_favo.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Segundo: ele é ácido, o que deixa o ambiente ruim para muitos micróbios.",
+      "destaque": "É ácido",
+      "tamanho": 190,
+      "imagem": "img/015_mel/01_colher.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "E terceiro: as abelhas colocam no mel uma enzima que produz um pouco de água oxigenada.",
+      "destaque": "Água oxigenada",
+      "sub": "Feita pelas abelhas",
+      "tamanho": 160,
+      "imagem": "img/015_mel/02_abelhas.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Mas tem uma condição: o pote precisa ficar bem fechado. Se o mel pegar umidade, ele pode estragar.",
+      "destaque": "Pote bem fechado",
+      "tamanho": 160,
+      "imagem": "img/015_mel/04_enxame.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Qual alimento você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é o próximo?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "O mel quase não estraga",
+  "thumb_sub": "Pode durar séculos",
+  "thumb_imagem": "img/015_mel/01_colher.jpg",
+  "thumb_foco": 0.6,
+  "titulo": "Por que o MEL quase não estraga? 🍯 #curiosidades #comida",
+  "descricao": "O mel pode durar séculos sem estragar: segundo a revista Smithsonian, arqueólogos já acharam potes de mel com milhares de anos em túmulos do Egito antigo, ainda preservados. O segredo é uma combinação: o mel tem muito pouca água, é ácido e tem uma enzima, colocada pelas abelhas, que produz um pouco de água oxigenada. Mas o pote precisa ficar bem fechado: se pegar umidade, o mel pode estragar.\n\nQual alimento você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #comida #mel #abelhas #ciencia",
+  "tags": ["curiosidades", "você sabia", "comida", "mel", "abelhas", "ciência", "alimentos", "Egito antigo", "fatos curiosos"],
+  "creditos": [
+    "Honey Spoon — Jaroslaw Puszczyński (CC0), via StockSnap: https://stocksnap.io/photo/honey-spoon-CX92JSDG32",
+    "bees — kokogiak (CC BY 2.0), via Flickr: https://www.flickr.com/photos/35034351119@N01/6274404",
+    "Honeycomb — Bistrosavage (CC BY 2.0), via Flickr: https://www.flickr.com/photos/16533652@N00/1313589",
+    "Western Honey Bee — (c) Kieran Hanrahan, some rights reserved (CC BY), via iNaturalist: https://www.inaturalist.org/photos/485263880"
+  ],
+  "fontes": [
+    "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8711758/",
+    "https://www.biorxiv.org/content/10.1101/411819.full.pdf"
+  ]
+}

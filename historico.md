@@ -15,3 +15,5 @@
 | 2026-11-07 | 011 | A palavra OK nasceu de uma piada de jornal (Boston, 1839) | Idiomas/palavras | https://youtu.be/Axw9RXIm8Rw | Smithsonian Magazine, Merriam-Webster, NPR, Etymonline |
 | 2026-11-08 | 012 | 5 curiosidades sobre o raio (temperatura, trovão, distância, mesmo lugar, Brasil campeão) | Ciência/física | https://youtu.be/QWkZB1H_414 | NOAA/NWS, INPE (via CNN Brasil e Poder360) |
 | 2026-11-08 | 013 | O flamingo não nasce rosa: a cor vem da comida | Animais | https://youtu.be/Vl0vb_ihX6M | Smithsonian (National Zoo), Britannica, SeaWorld |
+| 2026-11-09 | 014 | Olympus Mons, em Marte: o maior vulcão conhecido do Sistema Solar | Espaço | https://youtu.be/e6DVejwkx74 | NASA Science (Mars facts, APOD) |
+| 2026-11-09 | 015 | Por que o mel quase não estraga | Comida | https://youtu.be/y0-2sf0l8so | Smithsonian Magazine, NCBI/PMC, bioRxiv |

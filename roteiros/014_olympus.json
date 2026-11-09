@@ -1,0 +1,76 @@
+{
+  "tag": "VOCÊ SABIA?",
+  "voz": "pt-BR-FranciscaNeural",
+  "velocidade": "+8%",
+  "segmentos": [
+    {
+      "fala": "O maior vulcão conhecido do Sistema Solar não fica na Terra. Fica em Marte.",
+      "destaque": "O maior vulcão",
+      "sub": "Fica em Marte",
+      "tamanho": 160,
+      "imagem": "img/014_olympus/01_mosaico.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "O nome dele é Olympus Mons, o Monte Olimpo.",
+      "destaque": "Olympus Mons",
+      "tamanho": 170,
+      "imagem": "img/014_olympus/02_tharsis.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Ele tem cerca de três vezes a altura do Monte Everest, a montanha mais alta da Terra.",
+      "destaque": "3x o Everest",
+      "tamanho": 180,
+      "imagem": "img/014_olympus/04_everest.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "E a base dele cobre uma área do tamanho do estado americano do Arizona.",
+      "destaque": "Do tamanho do Arizona",
+      "tamanho": 140,
+      "imagem": "img/014_olympus/01_mosaico.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Segundo a NASA, ele cresceu tanto porque a gravidade de Marte é mais fraca e a crosta do planeta quase não se mexe.",
+      "destaque": "Por que tão grande?",
+      "sub": "Gravidade fraca e crosta parada",
+      "tamanho": 140,
+      "imagem": "img/014_olympus/03_marte.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Assim, a lava foi se acumulando no mesmo lugar por muito tempo.",
+      "destaque": "Lava no mesmo lugar",
+      "tamanho": 150,
+      "imagem": "img/014_olympus/02_tharsis.jpg",
+      "foco": 0.25
+    },
+    {
+      "fala": "Qual planeta você quer ver aqui? Comenta aí e segue o canal para mais curiosidades.",
+      "destaque": "Qual é o próximo?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "O maior vulcão fica em Marte",
+  "thumb_sub": "3x o Everest",
+  "thumb_imagem": "img/014_olympus/01_mosaico.jpg",
+  "thumb_foco": 0.5,
+  "titulo": "O MAIOR vulcão do Sistema Solar fica em Marte 🌋 #curiosidades #espaco",
+  "descricao": "Olympus Mons, em Marte, é o maior vulcão conhecido do Sistema Solar: tem cerca de três vezes a altura do Monte Everest, e a base cobre uma área do tamanho do estado americano do Arizona. Segundo a NASA, ele cresceu tanto porque a gravidade de Marte é mais fraca e a crosta quase não se mexe, então a lava foi se acumulando no mesmo lugar.\n\nQual planeta você quer ver aqui? Comenta aí 👇\n\n#curiosidades #vocesabia #espaco #marte #astronomia #nasa",
+  "tags": ["curiosidades", "você sabia", "espaço", "Marte", "Olympus Mons", "vulcão", "astronomia", "NASA", "fatos curiosos"],
+  "creditos": [
+    "Color Mosaic of Olympus Mons — NASA (domínio público): https://images.nasa.gov/details/PIA02982",
+    "Tharsis Volcanoes and Valles Marineris, Mars — NASA (domínio público): https://images.nasa.gov/details/PIA02005",
+    "Valles Marineris Hemisphere — NASA (domínio público): https://images.nasa.gov/details/PIA00003",
+    "Mount Everest as seen from STS-58 — NASA (domínio público): https://images.nasa.gov/details/STS058-101-014"
+  ],
+  "fontes": [
+    "https://science.nasa.gov/mars/facts/",
+    "https://science.nasa.gov/image-article/apod-2023-april-4-olympus-mons-largest-volcano-in-the-solar-system/",
+    "https://science.nasa.gov/image-article/apod-2004-may-26-at-the-summit-of-olympus-mons/",
+    "https://science.nasa.gov/resource/viking-1-orbiter-image-olympus-mons/"
+  ]
+}
